@@ -16,8 +16,8 @@ export const Navigation = (props) => {
             <span className='icon-bar'></span>{' '}
           </button>
           <a className='navbar-brand page-scroll' href='#page-top'>
-            My Landing Page
-          </a>{' '}
+            Les Grands Voisins
+          </a>.com{' '}
         </div>
 
         <div
@@ -26,14 +26,16 @@ export const Navigation = (props) => {
         >
           <ul className='nav navbar-nav navbar-right'>
             <li>
+                v.α
+            </li>
+            <li>
               <a href='#features' className='page-scroll'>
-                Features
+                Valeurs
               </a>
             </li>
             <li>
               <a href='#about' className='page-scroll'>
-                About
-              </a>
+                Interdépendance</a>
             </li>
             <li>
               <a href='#services' className='page-scroll'>
@@ -42,15 +44,14 @@ export const Navigation = (props) => {
             </li>
             <li>
               <a href='#portfolio' className='page-scroll'>
-                Gallery
+                Gallerie
               </a>
             </li>
             <li>
               <a href='#testimonials' className='page-scroll'>
-                Testimonials
+                Témoignages
               </a>
             </li>
-            
           </ul>
         </div>
       </div>

@@ -3,12 +3,16 @@ export const Features = (props) => {
     <div id='features' className='text-center'>
       <div className='container'>
         <div className='col-md-10 col-md-offset-1 section-title'>
-          <h2>Features</h2>
+          <h2>Déclaration de valeurs*</h2>
+        </div>
+        <div className='col-md-10 col-md-offset-1'>
+        <p>* (Ceci est au stade de la proposition)</p>
+    <p>{props.data ? props.data.introtext : 'Chargement'}</p>
         </div>
         <div className='row'>
           {props.data
-            ? props.data.map((d, i) => (
-                <div key={`${d.title}-${i}`} className='col-xs-6 col-md-3'>
+            ? props.data.iconboxes.map((d, i) => (
+                <div key={`${d.title}-${i}`} className='col-xs-6 col-md-4'>
                   {' '}
                   <i className={d.icon}></i>
                   <h3>{d.title}</h3>
@@ -17,6 +21,7 @@ export const Features = (props) => {
               ))
             : 'Loading...'}
         </div>
+    <p>{props.data ? props.data.concludetext : 'Chargement'}</p>
       </div>
     </div>
   )

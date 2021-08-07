@@ -19,9 +19,21 @@ export const Header = (props) => {
                   href='#features'
                   className='btn btn-custom btn-lg page-scroll'
                 >
-                  Learn More
+                  Venez !
                 </a>{' '}
+    <p><a name="mailinglist"></a>&nbsp;</p>
+    <div className='intro'>
+    <h2>Voulez-vous vous inscrire à la liste de diffusion ?</h2>
+ <form method='post' action='https://list.lesgrandsvoisins.com/subscription/form' className='listmonk-form' target='_new'>
+    <div>
+      <p><input type='text' name='email' id='mailinglistemailfield'  className='form-control' placeholder='Email'/>
+      <input type='text' className='form-control' name='name' placeholder='Nom (facultatif)'/>
+      <input id='b7b3c' type='hidden' name='l' value='b7b3c33f-3301-48c0-a3ab-15f8102f8cfa'/><br/>
+      <input type='submit' className='btn btn-custom btn-lg page-scroll' value='Je m`inscris à la liste de diffusion !'/></p>
+    </div></form> 
               </div>
+              </div>
+
             </div>
           </div>
         </div>
