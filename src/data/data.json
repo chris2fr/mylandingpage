@@ -61,12 +61,17 @@
             "text": "Nous proposons des lieux de rencontre différents."
         },
         {
+            "icon": "fa fa-money-bill-alt",
+            "link": "#services",
+            "name": "Crypto monnaie-temps locale",
+            "text": "Nous projettons de proposer un crypto-monnaie-temps locale qui peut être utilisé chez jos voisins."
+        },
+        {
             "icon": "fa fa-magic",
             "link": "#services",
             "name": "Toujours plus de magie",
             "text": "Notre but est de nous financier sans surplus pour les activités des Grands Voisins. Vos participations, aussi financières en échanges pour services ou en dons ou abonnements nous permettent de toujours proposer plus."
         }
-
     ],
     "Testimonials": [{
             "img": "img/testimonials/01.jpg",
@@ -128,24 +133,19 @@
         "youtube": "youtube.com"
     },
     "Features": {
-        "introtext": "Nous, Les Grands Voisins, déplorons le dédain, l’agression et l’ambiguïté dans ce monde aujourd’hui à tous les niveaux et proposons à la place des priorités tournées vers les vérités, vers les engagements, vers la subsidiarité et ceci dans le sens de notre déclaration d’interdépendance.",
+        "introtext": "Face à l’unité ambiguë et l’agressivité passive dans ce monde aujourd’hui, nous, Les Grands Voisins, proposons l’engagement libre et la diversité encadrée. La manière dont nous faisons est déjà ce que nous faisons. Venez comme vous êtes et engagez-vous selon votre libre arbitre que vous soyez voisin bénéficiaire, individuel, organisationnel ou institutionnel.",
        "iconboxes": 
         [
         {
-            "icon": "fa fa-binoculars",
-            "title": "Les vérités multiples",
-            "text": "Une recherche de vérité subjective est compatible avec la compréhension des vérités des autres. La richesse vient d’une diversité de vérités différentes."
+            "icon": "fa fa-braille",
+            "title": "Engagement libre",
+            "text": "Les engagements nous permettent de construire. La liberté nous permet de consentir nos contributions et notre presence."
         },
         {
-            "icon": "fa fa-chart-pie",
-            "title": "Les engagements volontaires",
-            "text": "Chaque voisin et voisine – en tant qu’individu ou en tant qu’organsation – est libre de s’engager ou se désengager. L’intention est de fournir une sécurité par le respect."
-        },
-        {
-            "icon": "fa fa-umbrella",
-            "title": "La subsidarité collégiale",
-            "text": "Il est avantageux de sécuriser chacun avec des délimitations complétées d’une assurance que chacun intervient à son niveau d’efficience."
+            "icon": "fa fa-brain",
+            "title": "Diversité encadrée",
+            "text": "Une clarté de cadre nous permet de nous sentir en sécurité. Une diversité d’opinons et de contributions nous fournit de la robustesse."
         }],
-        "concludetext":"Et vous aussi, vous avez vos valeurs, comme tout voisin. Chacune et chacun a tendence à s'approprier Les Grands Voisins à sa manière. Votre définition, pour nous, est aussi valable que celle-ci."
+        "concludetext":""
     }
 }
