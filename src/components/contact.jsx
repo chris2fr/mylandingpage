@@ -38,6 +38,7 @@ export const Contact = (props) => {
     <div>
       <div id='contact'>
         <div className='container'>
+    {/*/}
           <div className='col-md-8'>
             <div className='row'>
               <div className='section-title'>
@@ -97,13 +98,14 @@ export const Contact = (props) => {
               </form>
             </div>
           </div>
+    {/*/}
           <div className='col-md-3 col-md-offset-1 contact-info'>
             <div className='contact-item'>
               <h3>Contact Info</h3>
               <p>
                 <span>
                   <i className='fa fa-map-marker'></i> Address
-                </span>
+                </span><br/>
                 {props.data ? props.data.address : 'loading'}
               </p>
             </div>
@@ -118,12 +120,13 @@ export const Contact = (props) => {
             <div className='contact-item'>
               <p>
                 <span>
-                  <i className='fa fa-envelope-o'></i> Email
+                  <i className='fa fa-envelope'></i> Email
                 </span>{' '}
                 {props.data ? props.data.email : 'loading'}
               </p>
             </div>
           </div>
+    {/*/}
           <div className='col-md-12'>
             <div className='row'>
               <div className='social'>
@@ -147,6 +150,7 @@ export const Contact = (props) => {
               </div>
             </div>
           </div>
+    {/*/}
         </div>
       </div>
     </div>
