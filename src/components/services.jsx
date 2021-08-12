@@ -3,7 +3,7 @@ export const Services = (props) => {
     <div id='services' className='text-center'>
       <div className='container'>
         <div className='section-title'>
-          <h2>Se rendre service</h2>
+          <h2>Rendre service</h2>
           <p>
             Les Grands Voisins existent fincièrement de par notre proposition de services financés et/ou rémunérés pour et par les différents populations, voire les usagers directement. 
           </p>

@@ -30,7 +30,7 @@ export const Navigation = (props) => {
             </li>
             <li>
               <a href='#features' className='page-scroll'>
-                Valeurs
+                Liste de diffusion
               </a>
             </li>
             <li>

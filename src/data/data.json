@@ -2,7 +2,8 @@
     "Header": {
 
         "title": "Les Grands Voisins",
-        "paragraph": "Les Grands Voisins est une communiauté alternative d'individus, d'artistes, d'artesans, d'associations, d'entreprises sociales et solidaires, de services sociaux et du pouvoir public. [Ce site est en construction]"
+        "paragraph": "Les Grands voisins sont nés à l’hôpital Saint-Vincent-de-Paul dans le 14e arrondissement à Paris, entre Port royale et les Catacombes. Nous sommes issus des failles dans le béton et dans les politiques publiques. Nous sommes ouverts, inclusifs, incluants et au service de l’accueil de tous. Nous croyons dans des ponts entre l’utopie et la réalité.",
+        "paragraphold": "Les Grands Voisins est une communiauté alternative d'individus, d'artistes, d'artesans, d'associations, d'entreprises sociales et solidaires, de services sociaux et du pouvoir public."
 
     },
     "About": {
@@ -28,7 +29,7 @@
             "icon": "fa fa-comments",
             "link": "https://mailing.lesgrandsvoisins.com",
             "name": "Discourse",
-            "text": "Nous avons un site discourse pour nos éechanges et nouvelles communautaires."
+            "text": "Nous avons un site discourse pour nos échanges et nouvelles."
         },
         {
             "icon": "fa fa-bullhorn",
@@ -46,31 +47,31 @@
             "icon": "fa fa-users",
             "link": "#services",
             "name": "Annuaire",
-            "text": "Nous avons des voisins de quatre collèges: pouvoir public, services sociaux, économie soicale et solidaires, grand public."
+            "text": "Nous proposerons un annuaire des voisins pour les retrouver."
         },
         {   
             "icon": "fa fa-ticket-alt",
             "link": "#services",
-            "name": "Programmation évènementiel",
-            "text": "Nous proposons des concerts, des colloques, des rencontres et des ateliers dans une programmation."
+            "name": "Programmation évènementielle",
+            "text": "Nous proposerons une programmation d'évènements culturels."
         },
         {   
             "icon": "fa fa-paint-brush",
             "link": "#services",
             "name": "Expos et activités longues",
-            "text": "Nous proposons des lieux de rencontre différents."
+            "text": "Nous proposerons des lieux de rencontres artistiques et culturels."
         },
         {
             "icon": "fa fa-money-bill-alt",
             "link": "#services",
             "name": "Crypto monnaie-temps locale",
-            "text": "Nous projettons de proposer un crypto-monnaie-temps locale qui peut être utilisé chez jos voisins."
+            "text": "Nous projettons de proposer un crypto-monnaie-temps des voisins."
         },
         {
             "icon": "fa fa-magic",
             "link": "#services",
             "name": "Toujours plus de magie",
-            "text": "Notre but est de nous financier sans surplus pour les activités des Grands Voisins. Vos participations, aussi financières en échanges pour services ou en dons ou abonnements nous permettent de toujours proposer plus."
+            "text": "Notre but est de nous financier sans surplus pour nos activités."
         }
     ],
     "Testimonials": [{
@@ -133,7 +134,7 @@
         "youtube": "youtube.com"
     },
     "Features": {
-        "introtext": "Face à l’unité ambiguë et l’agressivité passive dans ce monde aujourd’hui, nous, Les Grands Voisins, proposons l’engagement libre et la diversité encadrée. La manière dont nous faisons est déjà ce que nous faisons. Venez comme vous êtes et engagez-vous selon votre libre arbitre que vous soyez voisin bénéficiaire, individuel, organisationnel ou institutionnel.",
+        "introtext": "Face à l’unité ambiguë et les violences douces dans ce monde aujourd’hui, nous, Les Grands Voisins, proposons l’engagement libre et la diversité encadrée. La manière dont nous faisons est déjà ce que nous faisons. Venez comme vous êtes et engagez-vous selon votre libre arbitre que vous soyez voisin bénéficiaire, individuel, organisationnel ou institutionnel.",
        "iconboxes": 
         [
         {
